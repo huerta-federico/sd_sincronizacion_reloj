@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.time.Instant;
 
-public class TimeServer2 {
+public class TimeServer {
     public static void main(String[] args) {
         try (DatagramSocket socket = new DatagramSocket(12345)) {
             System.out.println("Time Server is running...");

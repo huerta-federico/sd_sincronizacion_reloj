@@ -7,7 +7,7 @@ import java.net.InetAddress;
 import java.util.Date;
 
 
-public class TimeClient2 {
+public class TimeClient {
     public static void main(String[] args) {
         String servidorRemoto = "192.168.1.81";
         String servidorLocal = "localhost";
