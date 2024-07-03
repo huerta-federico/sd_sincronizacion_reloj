@@ -1,4 +1,5 @@
 import java.io.IOException;
+import java.io.InterruptedIOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
@@ -8,7 +9,9 @@ import java.util.Date;
 
 public class TimeClient2 {
     public static void main(String[] args) {
-        String serverAddress = "localhost"; // Change this to the server's address if needed
+        String servidorRemoto = "192.168.1.81";
+        String servidorLocal = "localhost";
+        String serverAddress = servidorRemoto; // Change this to the server's address if needed
         int serverPort = 12345;
 
         try (DatagramSocket socket = new DatagramSocket()) {
@@ -16,6 +19,7 @@ public class TimeClient2 {
             byte[] buffer = new byte[256];
             InetAddress address = InetAddress.getByName(serverAddress);
             DatagramPacket request = new DatagramPacket(buffer, buffer.length, address, serverPort);
+            socket.setSoTimeout(10000);
 
             //El reloj cliente está adelantado 10s
             long t0 = System.currentTimeMillis() + 10000;
@@ -39,8 +43,11 @@ public class TimeClient2 {
             System.out.println("Server Time: " + new Date(serverTime));
             System.out.println("Round-Trip Delay: " + roundTripDelay + "ms");
             System.out.println("Adjusted Client Time: " + new Date(adjustedTime));
+        } 
+        catch (InterruptedIOException iioe) {
+            System.err.println("Remote host timed out during read operation");
         } catch (IOException e) {
-            e.printStackTrace();
-        }
+            System.err.println("Network I/O error - " + e);
+        } 
     }
 }
