@@ -18,15 +18,15 @@ public class TimeClientListMultiple {
         // Parámetros de conexión
         String clientIPAddress = "";
         try {
-            // Get the local host address
+            // Obtener la IP del equipo local
             InetAddress localHost = InetAddress.getLocalHost();
             clientIPAddress = localHost.getHostAddress();
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
-        String servidorRemoto = "192.168.1.44";
+        String servidorRemoto = "192.168.1.44"; // Cambiar por la IP del servidor
         String servidorLocal = "localhost";
-        String serverAddress = servidorLocal; // Change this to the server's address if needed
+        String serverAddress = servidorLocal; // Cambiar la variable IP
         int serverPort = 12345;
         String clientName = "Federico";
 
@@ -67,7 +67,7 @@ public class TimeClientListMultiple {
             listToSend.add(clientName);
             listToSend.add(clientIPAddress);
 
-            // Serialize the list into a byte array
+            // Convertir la lista a una secuencia de bytes
             ByteArrayOutputStream byteStream = new ByteArrayOutputStream();
             ObjectOutputStream objStream = new ObjectOutputStream(byteStream);
             objStream.writeObject(listToSend);
@@ -76,7 +76,7 @@ public class TimeClientListMultiple {
             long rtt;
             long[] serverTimeRTT = new long[2];
 
-            // Create and send the DatagramPacket
+            // Crear y enviar el DatagramPacket
             InetAddress address = InetAddress.getByName(serverAddress);
             DatagramPacket packet = new DatagramPacket(byteArray, byteArray.length, address, serverPort);
             socket.setSoTimeout(10000);
@@ -84,7 +84,7 @@ public class TimeClientListMultiple {
             socket.send(packet);
             System.out.println("Request #" + (attempt + 1) + " sent to the server, awaiting response...");
 
-            // Receive DatagramPacket
+            // Recibir el DatagramPacket
             byte[] buffer = new byte[1024];
             DatagramPacket response = new DatagramPacket(buffer, buffer.length);
             socket.receive(response);
@@ -93,27 +93,26 @@ public class TimeClientListMultiple {
             ObjectInputStream ReceivedObjStream = new ObjectInputStream(ReceivedByteStream);
             List<?> receivedList = (List<?>) ReceivedObjStream.readObject();
 
-            // Extract server time
+            // Extraer la hora del servidor
             String serverTimeStr = (String) receivedList.get(2);
             long serverTime = Long.parseLong(serverTimeStr);
 
-            // Calculate round-trip time
+            // Calcular tiempo de retorno
             rtt = (t1 - t0) / 2;
 
-            // Return server time and RTT
+            // Devolver hora del servidor y tiempo de retorno
             serverTimeRTT[0] = serverTime;
             serverTimeRTT[1] = rtt;
             return serverTimeRTT;
-
-        } catch (InterruptedIOException iioe) {
+            
+        } catch (InterruptedIOException iioe) { // Control de excepciones
             System.err.println("Remote host timed out during read operation");
         } catch (IOException e) {
             System.err.println("Network I/O error - " + e);
         } catch (ClassNotFoundException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            System.err.println("Error" + e);
         } catch (Exception e) {
-            e.printStackTrace();
+            System.err.println("Error" + e);
         }
         return null;
     }

@@ -15,44 +15,39 @@ public class TimeServerList {
             System.out.println("Server is running...");
 
             while (true) {
+                // A la espera de solicitudes
                 byte[] buffer = new byte[1024];
                 DatagramPacket request = new DatagramPacket(buffer, buffer.length);
                 socket.receive(request);
 
-                // Deserialize the byte array back into a List
+                // Convertir la secuencia de bytes a una lista
                 ByteArrayInputStream ReceivedbyteStream = new ByteArrayInputStream(request.getData());
                 ObjectInputStream ReceivedobjStream = new ObjectInputStream(ReceivedbyteStream);
-                // Verificar advertencia
-                @SuppressWarnings("unchecked")
+                @SuppressWarnings("unchecked") // Verificar y depurar advertencia, podría ser Lista<?>
                 List<String> receivedList = (List<String>) ReceivedobjStream.readObject();
 
+                // Obtiene la IP y puerto del cliente para enviar la respuesta
                 InetAddress clientAddress = request.getAddress();
                 int clientPort = request.getPort();
 
+                // Obtiene la hora del servidor y lo agrega a la lista
                 long currentTime = Instant.now().toEpochMilli();
                 receivedList.add(Long.toString(currentTime));
 
-                /*
-                 * // Print the received list
-                 * System.out.println("Received list:");
-                 * for (Object item : receivedList) {
-                 * System.out.println(item);
-                 * }
-                 */
-
+                // Convierte la lista a una secuencia de bytes
                 ByteArrayOutputStream byteStream = new ByteArrayOutputStream();
                 ObjectOutputStream objStream = new ObjectOutputStream(byteStream);
                 objStream.writeObject(receivedList);
                 objStream.flush();
                 byte[] byteArray = byteStream.toByteArray();
 
-                // Create and send the DatagramPacket
+                // Crea y envía el DatagramPacket
                 DatagramPacket packet = new DatagramPacket(byteArray, byteArray.length, clientAddress, clientPort);
                 socket.send(packet);
 
             }
         } catch (IOException e) {
-            System.err.println("Network I/O error - " + e);
+            System.err.println("Network I/O error - " + e); // Control de excepciones
         } catch (Exception e) {
             System.err.println("Error" + e);
         }
