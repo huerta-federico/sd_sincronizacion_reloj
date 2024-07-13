@@ -32,20 +32,23 @@ public class TimeClient {
         long[] serverTimeRTT = new long[2];
         long averageRoundTripTime = 0;
         int attempts = 10;
+        int responses = 0;
 
         // Solicitudes al servidor
         for (int i = 0; i < attempts; i++) {
             try {
-                serverTimeRTT = requestServerTime(clientIPAddress, clientName, serverAddress, serverPort, i);
-                averageRoundTripTime = +serverTimeRTT[1];
-            } catch (Exception e) {
+                serverTimeRTT = requestServerTime(clientIPAddress, clientName, serverAddress, serverPort, i); // Obtiene el RTT
+                averageRoundTripTime = +serverTimeRTT[1]; // Suma el RTT al total para sacar promedio
+                responses = +1; // Cuenta el número de respuestas
+            } catch (Exception e) { // Manejo de excepción en case que UDP pierda paquetes
                 e.printStackTrace();
             }
-            
+
         }
 
-        // Cálculo del RTT promedio y ajuste del reloj
-        averageRoundTripTime = averageRoundTripTime / attempts;
+        // Cálculo del RTT promedio en base a las respuestas recibidas y ajuste del
+        // reloj
+        averageRoundTripTime = averageRoundTripTime / responses;
         long t0 = System.currentTimeMillis();
         long adjustedTime = serverTimeRTT[0] + averageRoundTripTime;
         long timeDifference = t0 - adjustedTime;
@@ -107,7 +110,7 @@ public class TimeClient {
             serverTimeRTT[0] = serverTime;
             serverTimeRTT[1] = rtt;
             return serverTimeRTT;
-            
+
         } catch (InterruptedIOException iioe) { // Control de excepciones
             System.err.println("Remote host timed out during read operation");
         } catch (IOException e) {
