@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class TimeClientListMultiple {
+public class TimeClient {
     public static void main(String[] args) {
 
         // Parámetros de conexión

@@ -13,9 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class TimeServerList {
-
-    private static final Logger logger = Logger.getLogger(TimeServerList.class.getName());
+public class TimeServer {
 
     public static void main(String[] args) {
         setupLogger();
@@ -80,4 +78,6 @@ public class TimeServerList {
             logger.log(Level.SEVERE, "Error setting up logger: " + e.getMessage(), e);
         }
     }
+
+    private static final Logger logger = Logger.getLogger(TimeServer.class.getName());
 }
