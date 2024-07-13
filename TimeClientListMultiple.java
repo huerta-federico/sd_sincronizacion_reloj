@@ -24,9 +24,7 @@ public class TimeClientListMultiple {
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
-        String servidorRemoto = "192.168.1.44"; // Cambiar por la IP del servidor
-        String servidorLocal = "localhost";
-        String serverAddress = servidorLocal; // Cambiar la variable IP
+        String serverAddress = "25.4.142.34"; // Cambiar por la IP del servidor
         int serverPort = 12345;
         String clientName = "Federico";
 
@@ -37,8 +35,13 @@ public class TimeClientListMultiple {
 
         // Solicitudes al servidor
         for (int i = 0; i < attempts; i++) {
-            serverTimeRTT = requestServerTime(clientIPAddress, clientName, serverAddress, serverPort, i);
-            averageRoundTripTime = +serverTimeRTT[1];
+            try {
+                serverTimeRTT = requestServerTime(clientIPAddress, clientName, serverAddress, serverPort, i);
+                averageRoundTripTime = +serverTimeRTT[1];
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            
         }
 
         // Cálculo del RTT promedio y ajuste del reloj

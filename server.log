@@ -1,0 +1,248 @@
+Jul 06, 2024 8:39:36 PM TimeServerList main
+INFO: Server is running...
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62707
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62707 with list: [David, 192.168.18.56, 1720316397792]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62708
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62708 with list: [David, 192.168.18.56, 1720316397853]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62709
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62709 with list: [David, 192.168.18.56, 1720316397875]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62710
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62710 with list: [David, 192.168.18.56, 1720316397906]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62711
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62711 with list: [David, 192.168.18.56, 1720316397929]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62712
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62712 with list: [David, 192.168.18.56, 1720316397954]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62713
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62713 with list: [David, 192.168.18.56, 1720316397976]
+Jul 06, 2024 8:39:57 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62714
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62714 with list: [David, 192.168.18.56, 1720316398000]
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62715
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62715 with list: [David, 192.168.18.56, 1720316398025]
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Received request from /25.3.7.204:62716
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Received list: [David, 192.168.18.56]
+Jul 06, 2024 8:39:58 PM TimeServerList main
+INFO: Sent response to /25.3.7.204:62716 with list: [David, 192.168.18.56, 1720316398053]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55798
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55798 with list: [Alex Mejía, 192.168.100.11, 1720316500117]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55799
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55799 with list: [Alex Mejía, 192.168.100.11, 1720316500148]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55800
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55800 with list: [Alex Mejía, 192.168.100.11, 1720316500199]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55801
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55801 with list: [Alex Mejía, 192.168.100.11, 1720316500230]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55802
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55802 with list: [Alex Mejía, 192.168.100.11, 1720316500258]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55803
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55803 with list: [Alex Mejía, 192.168.100.11, 1720316500282]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55804
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55804 with list: [Alex Mejía, 192.168.100.11, 1720316500308]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55805
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55805 with list: [Alex Mejía, 192.168.100.11, 1720316500327]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55806
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55806 with list: [Alex Mejía, 192.168.100.11, 1720316500349]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received request from /25.3.191.150:55807
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:41:40 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:55807 with list: [Alex Mejía, 192.168.100.11, 1720316500379]
+Jul 06, 2024 8:43:15 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54963
+Jul 06, 2024 8:43:15 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:15 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54963 with list: [Alex Mejía, 192.168.100.11, 1720316595992]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54192
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54192 with list: [Alex Mejía, 192.168.100.11, 1720316615050]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54193
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54193 with list: [Alex Mejía, 192.168.100.11, 1720316615098]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54194
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54194 with list: [Alex Mejía, 192.168.100.11, 1720316615130]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54195
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54195 with list: [Alex Mejía, 192.168.100.11, 1720316615218]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54196
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54196 with list: [Alex Mejía, 192.168.100.11, 1720316615248]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54197
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54197 with list: [Alex Mejía, 192.168.100.11, 1720316615291]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54198
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54198 with list: [Alex Mejía, 192.168.100.11, 1720316615316]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54199
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54199 with list: [Alex Mejía, 192.168.100.11, 1720316615335]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54200
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54200 with list: [Alex Mejía, 192.168.100.11, 1720316615353]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received request from /25.3.191.150:54201
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Received list: [Alex Mejía, 192.168.100.11]
+Jul 06, 2024 8:43:35 PM TimeServerList main
+INFO: Sent response to /25.3.191.150:54201 with list: [Alex Mejía, 192.168.100.11, 1720316615376]
+Jul 06, 2024 9:10:03 PM TimeServerList main
+INFO: Received request from /25.58.7.113:58078
+Jul 06, 2024 9:10:03 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:03 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:58078 with list: [Valeria Moreno, 25.58.7.113, 1720318203823]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61779
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61779 with list: [Valeria Moreno, 25.58.7.113, 1720318204303]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61780
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61780 with list: [Valeria Moreno, 25.58.7.113, 1720318204364]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61781
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61781 with list: [Valeria Moreno, 25.58.7.113, 1720318204468]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61782
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61782 with list: [Valeria Moreno, 25.58.7.113, 1720318204617]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61783
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61783 with list: [Valeria Moreno, 25.58.7.113, 1720318204789]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61784
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:04 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61784 with list: [Valeria Moreno, 25.58.7.113, 1720318204988]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61785
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61785 with list: [Valeria Moreno, 25.58.7.113, 1720318205478]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61786
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61786 with list: [Valeria Moreno, 25.58.7.113, 1720318205507]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received request from /25.58.7.113:61787
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Received list: [Valeria Moreno, 25.58.7.113]
+Jul 06, 2024 9:10:05 PM TimeServerList main
+INFO: Sent response to /25.58.7.113:61787 with list: [Valeria Moreno, 25.58.7.113, 1720318205537]
