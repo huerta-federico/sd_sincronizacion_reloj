@@ -848,3 +848,727 @@ Jul 12, 2024 7:35:10 PM TimeServer main
 INFO: Received list: [Federico, 25.4.142.34]
 Jul 12, 2024 7:35:10 PM TimeServer main
 INFO: Sent response to /25.4.142.34:56673 with list: [Federico, 25.4.142.34, 1720830910047]
+Jul 12, 2024 7:40:47 PM TimeServer main
+INFO: Server is running...
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61935
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61935 with list: [Federico, 25.4.142.34, 1720831258026]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61936
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61936 with list: [Federico, 25.4.142.34, 1720831258032]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61937
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61937 with list: [Federico, 25.4.142.34, 1720831258033]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61938
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61938 with list: [Federico, 25.4.142.34, 1720831258035]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61939
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61939 with list: [Federico, 25.4.142.34, 1720831258037]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61940
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61940 with list: [Federico, 25.4.142.34, 1720831258038]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61941
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61941 with list: [Federico, 25.4.142.34, 1720831258039]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61942
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61942 with list: [Federico, 25.4.142.34, 1720831258041]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61943
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61943 with list: [Federico, 25.4.142.34, 1720831258042]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received request from /25.4.142.34:61944
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:40:58 PM TimeServer main
+INFO: Sent response to /25.4.142.34:61944 with list: [Federico, 25.4.142.34, 1720831258043]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64369
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64369 with list: [Federico, 25.4.142.34, 1720831260141]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64370
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64370 with list: [Federico, 25.4.142.34, 1720831260146]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64371
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64371 with list: [Federico, 25.4.142.34, 1720831260147]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64372
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64372 with list: [Federico, 25.4.142.34, 1720831260149]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64373
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64373 with list: [Federico, 25.4.142.34, 1720831260150]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64374
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64374 with list: [Federico, 25.4.142.34, 1720831260151]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64375
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64375 with list: [Federico, 25.4.142.34, 1720831260153]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64376
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64376 with list: [Federico, 25.4.142.34, 1720831260154]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64377
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64377 with list: [Federico, 25.4.142.34, 1720831260155]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received request from /25.4.142.34:64378
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:00 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64378 with list: [Federico, 25.4.142.34, 1720831260156]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64379
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64379 with list: [Federico, 25.4.142.34, 1720831261351]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64380
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64380 with list: [Federico, 25.4.142.34, 1720831261356]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64381
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64381 with list: [Federico, 25.4.142.34, 1720831261357]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64382
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64382 with list: [Federico, 25.4.142.34, 1720831261358]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64383
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64383 with list: [Federico, 25.4.142.34, 1720831261360]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64384
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64384 with list: [Federico, 25.4.142.34, 1720831261361]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64385
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64385 with list: [Federico, 25.4.142.34, 1720831261362]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64386
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64386 with list: [Federico, 25.4.142.34, 1720831261363]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64387
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64387 with list: [Federico, 25.4.142.34, 1720831261364]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received request from /25.4.142.34:64388
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:01 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64388 with list: [Federico, 25.4.142.34, 1720831261366]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64389
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64389 with list: [Federico, 25.4.142.34, 1720831262481]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64390
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64390 with list: [Federico, 25.4.142.34, 1720831262485]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64391
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64391 with list: [Federico, 25.4.142.34, 1720831262486]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64392
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64392 with list: [Federico, 25.4.142.34, 1720831262487]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64393
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64393 with list: [Federico, 25.4.142.34, 1720831262488]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64394
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64394 with list: [Federico, 25.4.142.34, 1720831262489]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64395
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64395 with list: [Federico, 25.4.142.34, 1720831262490]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64396
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64396 with list: [Federico, 25.4.142.34, 1720831262491]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64397
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64397 with list: [Federico, 25.4.142.34, 1720831262492]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received request from /25.4.142.34:64398
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:02 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64398 with list: [Federico, 25.4.142.34, 1720831262493]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64399
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64399 with list: [Federico, 25.4.142.34, 1720831263595]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64400
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64400 with list: [Federico, 25.4.142.34, 1720831263599]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64401
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64401 with list: [Federico, 25.4.142.34, 1720831263600]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64402
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64402 with list: [Federico, 25.4.142.34, 1720831263601]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64403
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64403 with list: [Federico, 25.4.142.34, 1720831263602]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64404
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64404 with list: [Federico, 25.4.142.34, 1720831263603]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64405
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64405 with list: [Federico, 25.4.142.34, 1720831263604]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64406
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64406 with list: [Federico, 25.4.142.34, 1720831263605]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64407
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64407 with list: [Federico, 25.4.142.34, 1720831263606]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received request from /25.4.142.34:64408
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:03 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64408 with list: [Federico, 25.4.142.34, 1720831263607]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64409
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64409 with list: [Federico, 25.4.142.34, 1720831264714]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64410
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64410 with list: [Federico, 25.4.142.34, 1720831264718]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64411
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64411 with list: [Federico, 25.4.142.34, 1720831264719]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64412
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64412 with list: [Federico, 25.4.142.34, 1720831264720]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64413
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64413 with list: [Federico, 25.4.142.34, 1720831264721]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64414
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64414 with list: [Federico, 25.4.142.34, 1720831264722]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64415
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64415 with list: [Federico, 25.4.142.34, 1720831264723]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64416
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64416 with list: [Federico, 25.4.142.34, 1720831264724]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64417
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64417 with list: [Federico, 25.4.142.34, 1720831264725]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received request from /25.4.142.34:64418
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:04 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64418 with list: [Federico, 25.4.142.34, 1720831264726]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64419
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64419 with list: [Federico, 25.4.142.34, 1720831266178]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64420
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64420 with list: [Federico, 25.4.142.34, 1720831266182]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64421
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64421 with list: [Federico, 25.4.142.34, 1720831266183]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64422
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64422 with list: [Federico, 25.4.142.34, 1720831266184]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64423
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64423 with list: [Federico, 25.4.142.34, 1720831266185]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64424
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64424 with list: [Federico, 25.4.142.34, 1720831266186]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64425
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64425 with list: [Federico, 25.4.142.34, 1720831266187]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64426
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64426 with list: [Federico, 25.4.142.34, 1720831266188]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64427
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64427 with list: [Federico, 25.4.142.34, 1720831266189]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received request from /25.4.142.34:64428
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:06 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64428 with list: [Federico, 25.4.142.34, 1720831266190]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64429
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64429 with list: [Federico, 25.4.142.34, 1720831267313]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64430
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64430 with list: [Federico, 25.4.142.34, 1720831267317]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64431
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64431 with list: [Federico, 25.4.142.34, 1720831267318]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64432
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64432 with list: [Federico, 25.4.142.34, 1720831267319]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64433
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64433 with list: [Federico, 25.4.142.34, 1720831267320]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64434
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64434 with list: [Federico, 25.4.142.34, 1720831267322]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64435
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64435 with list: [Federico, 25.4.142.34, 1720831267323]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64436
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64436 with list: [Federico, 25.4.142.34, 1720831267324]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64437
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64437 with list: [Federico, 25.4.142.34, 1720831267325]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received request from /25.4.142.34:64438
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:07 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64438 with list: [Federico, 25.4.142.34, 1720831267326]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64439
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64439 with list: [Federico, 25.4.142.34, 1720831268397]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64440
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64440 with list: [Federico, 25.4.142.34, 1720831268401]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64441
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64441 with list: [Federico, 25.4.142.34, 1720831268402]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64442
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64442 with list: [Federico, 25.4.142.34, 1720831268403]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64443
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64443 with list: [Federico, 25.4.142.34, 1720831268405]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64444
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64444 with list: [Federico, 25.4.142.34, 1720831268406]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64445
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64445 with list: [Federico, 25.4.142.34, 1720831268407]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64446
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64446 with list: [Federico, 25.4.142.34, 1720831268408]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64447
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64447 with list: [Federico, 25.4.142.34, 1720831268408]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received request from /25.4.142.34:64448
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:08 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64448 with list: [Federico, 25.4.142.34, 1720831268409]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64449
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64449 with list: [Federico, 25.4.142.34, 1720831269504]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64450
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64450 with list: [Federico, 25.4.142.34, 1720831269508]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64451
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64451 with list: [Federico, 25.4.142.34, 1720831269509]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64452
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64452 with list: [Federico, 25.4.142.34, 1720831269510]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64453
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64453 with list: [Federico, 25.4.142.34, 1720831269511]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64454
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64454 with list: [Federico, 25.4.142.34, 1720831269512]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64455
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64455 with list: [Federico, 25.4.142.34, 1720831269513]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64456
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64456 with list: [Federico, 25.4.142.34, 1720831269514]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64457
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64457 with list: [Federico, 25.4.142.34, 1720831269515]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received request from /25.4.142.34:64458
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Received list: [Federico, 25.4.142.34]
+Jul 12, 2024 7:41:09 PM TimeServer main
+INFO: Sent response to /25.4.142.34:64458 with list: [Federico, 25.4.142.34, 1720831269516]
+Jul 29, 2024 7:13:26 PM TimeServer main
+INFO: Server is running...
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:62584
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:62584 with list: [Alex Mejía, 192.168.3.6, 1722299617041]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52212
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52212 with list: [Alex Mejía, 192.168.3.6, 1722299617153]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52213
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52213 with list: [Alex Mejía, 192.168.3.6, 1722299617203]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52214
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52214 with list: [Alex Mejía, 192.168.3.6, 1722299617242]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52215
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52215 with list: [Alex Mejía, 192.168.3.6, 1722299617318]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52216
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52216 with list: [Alex Mejía, 192.168.3.6, 1722299617352]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:52217
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:52217 with list: [Alex Mejía, 192.168.3.6, 1722299617408]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:61427
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:61427 with list: [Alex Mejía, 192.168.3.6, 1722299617503]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:61428
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:61428 with list: [Alex Mejía, 192.168.3.6, 1722299617553]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received request from /25.3.191.150:61429
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Received list: [Alex Mejía, 192.168.3.6]
+Jul 29, 2024 7:33:37 PM TimeServer main
+INFO: Sent response to /25.3.191.150:61429 with list: [Alex Mejía, 192.168.3.6, 1722299617588]
+Jul 29, 2024 7:34:06 PM TimeServer main
+INFO: Received request from /25.2.185.170:57707
+Jul 29, 2024 7:34:06 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:06 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57707 with list: [Alan, 192.168.0.2, 1722299646963]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57708
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57708 with list: [Alan, 192.168.0.2, 1722299647022]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57709
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57709 with list: [Alan, 192.168.0.2, 1722299647046]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57710
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57710 with list: [Alan, 192.168.0.2, 1722299647067]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57711
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57711 with list: [Alan, 192.168.0.2, 1722299647088]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57712
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57712 with list: [Alan, 192.168.0.2, 1722299647140]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57713
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57713 with list: [Alan, 192.168.0.2, 1722299647163]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57714
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57714 with list: [Alan, 192.168.0.2, 1722299647189]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:57715
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:57715 with list: [Alan, 192.168.0.2, 1722299647216]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received request from /25.2.185.170:61286
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Received list: [Alan, 192.168.0.2]
+Jul 29, 2024 7:34:07 PM TimeServer main
+INFO: Sent response to /25.2.185.170:61286 with list: [Alan, 192.168.0.2, 1722299647245]

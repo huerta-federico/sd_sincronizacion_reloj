@@ -24,7 +24,7 @@ public class TimeClient {
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
-        String serverAddress = "25.4.142.34"; // Cambiar por la IP del servidor
+        String serverAddress = "25.68.190.50"; // Cambiar por la IP del servidor
         int serverPort = 12345;
         String clientName = "Federico";
 
